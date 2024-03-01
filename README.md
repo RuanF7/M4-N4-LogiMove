@@ -45,7 +45,20 @@ uso.
 ## Execução e Validação de Consultas:
 Consultas T-SQL executadas com sucesso, com capacidade de recuperar, filtrar
 e ordenar dados conforme necessário.
+
+![image](https://github.com/RuanF7/M4-N4-LogiMove/assets/75641084/e4a66477-b57a-4bf4-9489-d7a9a9008de2)
+
+![image](https://github.com/RuanF7/M4-N4-LogiMove/assets/75641084/cfc87b97-2fe8-4120-aca1-9d4b205a13f5)
+
+![image](https://github.com/RuanF7/M4-N4-LogiMove/assets/75641084/3f3983bb-21bf-4085-9f6e-8ed913aa73ca)
+
+
 ## Operações CRUD Eficientes:
 Demonstração de operações CRUD - Criar, Ler, Atualizar e Deletar dados.
 Testes para assegurar que as operações CRUD estão funcionando conforme
 esperado, com respostas rápidas e precisas.
+
+![image](https://github.com/RuanF7/M4-N4-LogiMove/assets/75641084/0f8f0db9-17f7-4cc7-a5f6-b8dee61c8ac5)
+
+
+
